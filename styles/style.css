@@ -22,3 +22,7 @@ button{
     height: 100vh;
     background-color: blueviolet;
 }
+
+input{
+    transition: 0.4s;
+}
