@@ -1,0 +1,24 @@
+body{
+  margin: 0;
+}
+.zone1{
+    height: 100vh;
+    background : blue; 
+}
+button{
+    position: absolute;
+    bottom: 0px;
+    left:45%;
+    right:45%;
+    width: 200px;
+}
+
+.zone2{
+    height: 100vh;
+    background : red; 
+}
+
+.zone3{
+    height: 100vh;
+    background-color: blueviolet;
+}
